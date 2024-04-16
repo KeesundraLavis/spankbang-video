@@ -1,5 +1,7 @@
 # spankbang-video
 
+<img src="https://github.com/KeesundraLavis/spankbang-video/blob/main/span.png"/>
+
 ___
 
 **Learn how to download videos from SpankBang to MP4 for free in 3 easy steps. All you need is your browser and 1 minute of time**
@@ -16,3 +18,4 @@ ___
 
 ***For more details on how to Download Videos (Audio and Photo) from SpankBank, please download:***
 
+<img src="https://github.com/KeesundraLavis/spankbang-video/blob/main/dl.png"/>
